@@ -1,0 +1,16 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# Maven
+target/
+*.class
+
+# Environment / secrets
+.env
+.env.*
